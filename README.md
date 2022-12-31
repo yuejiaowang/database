@@ -1,1 +1,1 @@
-### This is the dataset used in paper 《UltrasonicGS: A Highly Robust Gesture and Sign Language》, which consists of three parts: single gesture data, continuous gesture data and sign language gesture (Chinese) data.
+### This is the dataset used in paper 《UltrasonicGS: A Highly Robust Gesture and Sign Language》, which consists of three parts: single gesture data, continuous gesture data and sign language gesture data.
