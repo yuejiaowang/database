@@ -1,0 +1,1 @@
+#### The wavs folder contains a total of 15 kinds of single gesture ultrasonic audio files, each gesture includes 48 data, a total of 720 data, you can refer to the PreProcess.py under the SignLanguageGesture folder to process the wav file into a picture format.
